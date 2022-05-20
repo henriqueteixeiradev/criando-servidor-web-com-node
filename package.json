@@ -1,0 +1,20 @@
+{
+  "name": "restfull",
+  "version": "1.0.0",
+  "description": "Aulas de NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henriqueteixeiradev/criando-servidor-web-com-node.git"
+  },
+  "keywords": [],
+  "author": "Henrique Teixeira Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henriqueteixeiradev/criando-servidor-web-com-node/issues"
+  },
+  "homepage": "https://github.com/henriqueteixeiradev/criando-servidor-web-com-node#readme"
+}
